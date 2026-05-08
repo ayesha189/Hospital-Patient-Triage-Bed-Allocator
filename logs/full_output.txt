@@ -1,0 +1,15 @@
+============================================
+  Starting Hospital Triage System
+  Strategy: best
+============================================
+IPC resources initialized.
+Launching Admissions Manager...
+╔══════════════════════════════════════╗
+║   Hospital Patient Triage System     ║
+╠══════════════════════════════════════╣
+║  ICU:4  Isolation:4  General:12      ║
+║  Strategy: Best-Fit                 ║
+╚══════════════════════════════════════╝
+Admissions Manager started (PID: 2927)
+Hospital is OPEN. Use triage.sh to admit patients.
+============================================
